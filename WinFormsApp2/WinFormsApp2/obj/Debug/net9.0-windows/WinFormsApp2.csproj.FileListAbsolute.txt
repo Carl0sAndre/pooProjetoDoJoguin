@@ -1,0 +1,197 @@
+C:\DevC\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\DevC\1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form3.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\pooProjetoDoJoguin-main\1 - Copia\1 - Copia\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form3.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form4.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\Users\cafsa\OneDrive\Área de Trabalho\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form5.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form3.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form4.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form5.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\alunodev07\Downloads\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form2.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form3.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form4.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form5.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuDificuldades.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuInicial.resources
+C:\DevC\WinFormsApp2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelFacil.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form5.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuDificuldades.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuInicial.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelFacil.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelMedio.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\WinFormsApp2\2\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuDificuldades.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuInicial.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelDificil.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelFacil.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelMedio.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\WinFormsApp2\4\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuDificuldades.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.MenuInicial.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelDificil.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelFacil.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.NivelMedio.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\DevC\WinFormsApp2\5\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
