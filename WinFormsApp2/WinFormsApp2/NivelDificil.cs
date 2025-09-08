@@ -69,6 +69,11 @@ namespace WinFormsApp2
 
                 e.Handled = true;
             }
+            if (guessed == 3)
+            {
+                MessageBox.Show("Você Perdeu!");
+                Application.Exit();
+            }
         }
     }
 }

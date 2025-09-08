@@ -70,6 +70,11 @@ namespace WinFormsApp2
 
                 e.Handled = true;
             }
+            if (guessed == 3)
+            {
+                MessageBox.Show("Você Perdeu!");
+                Application.Exit();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
