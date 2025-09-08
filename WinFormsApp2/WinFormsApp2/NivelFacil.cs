@@ -1,66 +1,87 @@
-﻿namespace WinFormsApp2
-{
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Windows.Forms;
 
-    // Made by MOO ICT
-    // For educational purpose only
+namespace WinFormsApp2
+{
     public partial class NivelFacil : Form
     {
+        List<string> words = new List<string>()
+        {
+            "Terra", "Cachorro", "Flor", "Peixe", "Gato",
+            "Cadeira", "Copo", "Árvore", "Fogo", "Chuva"
+        };
 
-        List<string> words = new List<string>();
-        string newText;
-        int i = 0;
+        string scrambledWord;
+        int currentIndex = 0;
         int guessed = 0;
-
 
         public NivelFacil()
         {
             InitializeComponent();
-            Setup();
+            SetupWord();
+        }
+
+        private void SetupWord()
+        {
+            scrambledWord = ScrambleWord(words[currentIndex]);
+            lblWord.Text = scrambledWord;
+            lblInfo.Text = $"Palavra {currentIndex + 1} de {words.Count}";
+            lblGuessed.Text = $"Erros: {guessed}";
+        }
+
+        private string ScrambleWord(string word)
+        {
+            if (word.Length <= 1) return word;
+
+            var letters = word.ToCharArray();
+            var random = new Random();
+            letters = letters.OrderBy(x => random.Next()).ToArray();
+
+            return new string(letters);
         }
 
         private void KeyIsPressed(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)Keys.Enter)
             {
-                if (words[i].ToLower() == textBox1.Text.ToLower())
+                string answer = textBox1.Text.Trim();
+
+                if (answer.Equals(words[currentIndex], StringComparison.OrdinalIgnoreCase))
                 {
-                    if (i < words.Count - 1)
+                    if (currentIndex < words.Count - 1)
                     {
-                        MessageBox.Show("Correct!", "Moo Says: ");
+                        MessageBox.Show("Correto!", "Fácil Says:");
                         textBox1.Text = "";
-                        i += 1;
-                        newText = Scramble(words[i]);
-                        lblWord.Text = newText;
-                        lblInfo.Text = "Words: " + (i + 1) + " of " + words.Count;
+                        currentIndex++;
                         guessed = 0;
-                        lblGussed.Text = "Guessed: " + guessed + " times.";
+                        SetupWord();
                     }
                     else
                     {
-                        lblWord.Text = "You Win, Well done";
+                        lblWord.Text = "Você venceu!";
                         return;
                     }
                 }
                 else
                 {
-                    guessed += 1;
-                    lblGussed.Text = "Guessed: " + guessed + " times.";
+                    guessed++;
+                    lblGuessed.Text = $"Erros: {guessed}";
                 }
+
                 e.Handled = true;
             }
         }
 
-        private void Setup()
+        private void button1_Click(object sender, EventArgs e)
         {
-            words = File.ReadLines("words.txt").ToList();
-            newText = Scramble(words[i]);
-            lblWord.Text = newText;
-            lblInfo.Text = "Words: " + (i + 1) + " of " + words.Count;
-        }
-
-        private string Scramble(string text)
-        {
-            return new string(text.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
+            string currentWord = words[currentIndex];
+            char firstLetter = currentWord[0];
+            char lastLetter = currentWord[currentWord.Length - 1];
+            string message = $"DICA!!\nPrimeira letra: {firstLetter}!\nÚltima letra: {lastLetter}!";
+            MessageBox.Show(message, "Dica");
         }
     }
 }

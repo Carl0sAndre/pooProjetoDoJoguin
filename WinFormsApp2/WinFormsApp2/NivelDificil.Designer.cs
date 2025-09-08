@@ -2,7 +2,6 @@
 {
     partial class NivelDificil
     {
-        private System.ComponentModel.IContainer components = null;
         private Label lblWord;
         private TextBox textBox1;
         private Label lblInfo;
@@ -10,55 +9,45 @@
 
         private void InitializeComponent()
         {
-            this.lblWord = new Label();
-            this.textBox1 = new TextBox();
-            this.lblInfo = new Label();
-            this.lblGuessed = new Label();
-            this.SuspendLayout();
+            lblWord = new Label();
+            textBox1 = new TextBox();
+            lblInfo = new Label();
+            lblGuessed = new Label();
+            SuspendLayout();
             // 
-            // lblWord
+            lblWord.Font = new Font("Segoe UI", 24F, FontStyle.Bold);
+            lblWord.ForeColor = Color.White;
+            lblWord.Location = new Point(57, 67);
+            lblWord.Size = new Size(800, 80);
+            lblWord.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            this.lblWord.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point);
-            this.lblWord.ForeColor = Color.White;
-            this.lblWord.Location = new Point(50, 50);
-            this.lblWord.Size = new Size(700, 60);
-            this.lblWord.TextAlign = ContentAlignment.MiddleCenter;
+            textBox1.Font = new Font("Segoe UI", 20F);
+            textBox1.Location = new Point(229, 200);
+            textBox1.Size = new Size(457, 52);
+            textBox1.TextAlign = HorizontalAlignment.Center;
+            textBox1.KeyPress += KeyIsPressed;
             // 
-            // textBox1
+            lblInfo.Font = new Font("Segoe UI", 16F);
+            lblInfo.ForeColor = Color.LightCyan;
+            lblInfo.Location = new Point(57, 307);
+            lblInfo.Size = new Size(800, 53);
+            lblInfo.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            this.textBox1.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            this.textBox1.Location = new Point(200, 150);
-            this.textBox1.Size = new Size(400, 50);
-            this.textBox1.KeyPress += new KeyPressEventHandler(this.KeyIsPressed);
-            this.textBox1.TextAlign = HorizontalAlignment.Center;
+            lblGuessed.Font = new Font("Segoe UI", 16F);
+            lblGuessed.ForeColor = Color.Yellow;
+            lblGuessed.Location = new Point(57, 373);
+            lblGuessed.Size = new Size(800, 53);
+            lblGuessed.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // lblInfo
-            // 
-            this.lblInfo.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            this.lblInfo.ForeColor = Color.White;
-            this.lblInfo.Location = new Point(50, 230);
-            this.lblInfo.Size = new Size(700, 40);
-            this.lblInfo.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // lblGuessed
-            // 
-            this.lblGuessed.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            this.lblGuessed.ForeColor = Color.Red;
-            this.lblGuessed.Location = new Point(50, 280);
-            this.lblGuessed.Size = new Size(700, 40);
-            this.lblGuessed.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // Form5
-            // 
-            this.BackColor = Color.DimGray;
-            this.ClientSize = new Size(800, 450);
-            this.Controls.Add(this.lblWord);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.lblInfo);
-            this.Controls.Add(this.lblGuessed);
-            this.Text = "Modo Difícil";
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            ClientSize = new Size(914, 600);
+            Controls.Add(lblGuessed);
+            Controls.Add(lblInfo);
+            Controls.Add(textBox1);
+            Controls.Add(lblWord);
+            BackColor = Color.DimGray;
+            Text = "Modo Difícil";
+            ResumeLayout(false);
+            PerformLayout();
         }
     }
 }

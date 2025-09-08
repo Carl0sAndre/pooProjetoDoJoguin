@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WinFormsApp2
 {
@@ -27,23 +26,18 @@ namespace WinFormsApp2
 
         private void SetupWord()
         {
-            scrambledWord = ScrambleWithFirstLetter(words[currentIndex]);
+            scrambledWord = ScrambleWord(words[currentIndex]);
             lblWord.Text = scrambledWord;
             lblInfo.Text = $"Palavra {currentIndex + 1} de {words.Count}";
             lblGuessed.Text = $"Erros: {guessed}";
         }
 
-        private string ScrambleWithFirstLetter(string word)
+        private string ScrambleWord(string word)
         {
-            if (word.Length <= 1) return word;
-
-            char firstLetter = word[0];
-            var rest = word.Substring(1).ToCharArray();
+            var letters = word.ToCharArray();
             var random = new Random();
-            rest = rest.OrderBy(x => random.Next()).ToArray();
-
-            // Coloca a primeira letra na posição correta
-            return firstLetter + new string(rest);
+            letters = letters.OrderBy(x => random.Next()).ToArray();
+            return new string(letters);
         }
 
         private void KeyIsPressed(object sender, KeyPressEventArgs e)
@@ -54,18 +48,19 @@ namespace WinFormsApp2
 
                 if (answer.Equals(words[currentIndex], StringComparison.OrdinalIgnoreCase))
                 {
-                    MessageBox.Show("Correto!", "Média Says:");
-                    currentIndex++;
-                    guessed = 0;
-                    textBox1.Text = "";
-
-                    if (currentIndex >= words.Count)
+                    if (currentIndex < words.Count - 1)
+                    {
+                        MessageBox.Show("Correto!", "Médio Says:");
+                        textBox1.Text = "";
+                        currentIndex++;
+                        guessed = 0;
+                        SetupWord();
+                    }
+                    else
                     {
                         lblWord.Text = "Você venceu!";
                         return;
                     }
-
-                    SetupWord();
                 }
                 else
                 {
@@ -75,6 +70,14 @@ namespace WinFormsApp2
 
                 e.Handled = true;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string currentWord = words[currentIndex];
+            char firstLetter = currentWord[0];
+            string message = $"DICA!!\nPrimeira letra: {firstLetter}!";
+            MessageBox.Show(message, "Dica");
         }
     }
 }

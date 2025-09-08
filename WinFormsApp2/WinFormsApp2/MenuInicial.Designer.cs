@@ -30,13 +30,15 @@
         {
             button1 = new Button();
             label1 = new Label();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(333, 201);
+            button1.Location = new Point(381, 268);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(127, 43);
+            button1.Size = new Size(145, 57);
             button1.TabIndex = 0;
             button1.Text = "Jogar";
             button1.UseVisualStyleBackColor = true;
@@ -47,21 +49,33 @@
             label1.AutoSize = true;
             label1.Font = new Font("Yu Gothic UI Semibold", 25F);
             label1.ForeColor = Color.FromArgb(192, 192, 255);
-            label1.Location = new Point(260, 60);
+            label1.Location = new Point(297, 80);
             label1.Name = "label1";
-            label1.Size = new Size(282, 46);
+            label1.Size = new Size(349, 57);
             label1.TabIndex = 1;
             label1.Text = "Guess The Word!";
             // 
-            // Form1
+            // button2
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            button2.Location = new Point(381, 348);
+            button2.Name = "button2";
+            button2.Size = new Size(145, 57);
+            button2.TabIndex = 2;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // MenuInicial
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.DimGray;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
+            Controls.Add(button2);
             Controls.Add(label1);
             Controls.Add(button1);
-            Name = "Form1";
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "MenuInicial";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -70,5 +84,6 @@
 
         private Button button1;
         private Label label1;
+        private Button button2;
     }
 }
